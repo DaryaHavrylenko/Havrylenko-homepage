@@ -45,7 +45,7 @@ body {
 .resume__block {
     border-bottom: 3px solid var(--border-color);
     padding-bottom: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
 }
 
 @media screen and (max-width: 576px) {
